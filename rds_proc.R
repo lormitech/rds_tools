@@ -33,7 +33,7 @@ require(Rgraphviz)
 #
 
 # working directory
-working_dir<- "C:\\Users\\lmilazzo\\Projects\\rds_analysis\\tools\\"
+working_dir<- "..."
 # name of the input file (RDS data)
 file_name<- "data_120724-02.rds"
 # number of columns (RDS data excluding the headers)
