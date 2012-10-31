@@ -133,6 +133,19 @@ function concatenateJSONSubTrees(strees_json) {
 }
 
 
+// function to get the parents for each node pairs
+function getParents(node_pairs) {
+
+  var parents = Array();
+  for (var i=0; i<node_pairs.length; i++) {
+    if (i%2==0) parents.push(node_pairs[i]);  
+  }
+  
+  return(parents);
+
+}
+
+
 // function to generate the subtrees
 function generateJSONSubTrees(node_pairs, rds_data) {
 
