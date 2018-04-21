@@ -3,6 +3,7 @@
 --------------------------------------------------------
 
 **rds_proc.R** - A Javascript library to process RDS data
+
 in particular ...
 - to validate RDS data (format validation)
 - to generate a graph in igraph format
@@ -12,6 +13,7 @@ in particular ...
 ...
 
 **rds_json.js** - A Javascript library to process RDS data
+
 in particular ...
 - to generate an RDS tree in JSON format
 - to convert an RDS tree in JSON format to an RDS tree in DOT format
