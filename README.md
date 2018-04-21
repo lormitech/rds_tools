@@ -16,8 +16,9 @@ in particular ...
 - to generate an RDS tree in JSON format
 - to convert an RDS tree in JSON format to an RDS tree in DOT format
 
+...
 
 
 ### References
 
-[RDS - Respondent Driven Sampling] (http://www.respondentdrivensampling.org/)
+[RDS - Respondent Driven Sampling](http://www.respondentdrivensampling.org/)
