@@ -2,7 +2,7 @@
 ### Utilities for RDS data processing
 --------------------------------------------------------
 
-**rds_proc.R** - A Javascript library to process RDS data
+**rds_proc.R** - A R library to process RDS data
 
 in particular ...
 - to validate RDS data (format validation)
